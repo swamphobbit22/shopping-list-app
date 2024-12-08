@@ -23,7 +23,6 @@ export default function ShoppingList({ items, onChangeItem, onDeleteItem }) {
             <h3>Your shopping list is empty</h3>
         )
     }
-
 };
 
 //edit an item
